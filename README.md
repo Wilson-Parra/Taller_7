@@ -1,5 +1,5 @@
 # Taller_7
-Link video de Fincionalidad 
+Link video de Funcionalidad 
 https://youtu.be/NbkwLb0RzYw
 
 CONEXION Y REGISTRO EN BASE DE DATOS
